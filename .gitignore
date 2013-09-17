@@ -1,3 +1,5 @@
 ## SugarCRM
 cache/
 *.log
+*.sql
+*.zip
